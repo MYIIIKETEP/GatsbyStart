@@ -1,0 +1,24 @@
+.fleft{
+
+    width: 45%;
+    float:left;
+    height: 250px;
+}
+.fimg  {
+    height: 250px;
+    width: auto
+}
+.fimgMe {
+    height: 450px;
+    width: auto
+}
+
+
+
+
+.fright{
+    
+    width: 45%;
+    float: right;
+    height: 250px;
+}
